@@ -82,4 +82,4 @@ Meu objetivo é me especializar em **Desenvolvimento Back-end**, criando aplica�
 
 </div>
 
-<h3 align="center">🚀 Em constante evolução, um commit por vez.</h3>
+
