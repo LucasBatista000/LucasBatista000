@@ -1,5 +1,6 @@
 <h1 align="center">Lucas Batista de Azevedo</h1>
 <h3 align="center">Estudante de Engenharia de Software · Foco em Back-end</h3>
+<p align="center">Construindo projetos e evoluindo dia a dia.</p>
 
 ---
 
